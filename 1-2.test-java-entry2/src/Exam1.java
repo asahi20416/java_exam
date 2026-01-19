@@ -1,7 +1,7 @@
 public class Exam1 {
     public static void main(String[] args) {
         
-        int totalScore = 101;
+        int totalScore = -1;
 
         if (totalScore == 100) {
             System.out.println("満点です");
